@@ -1,4 +1,4 @@
-# Jupyter in Visual Code Dev-Container
+# Jupyter in Visual Studio Code Dev-Container
 
 ## How to test?
 
